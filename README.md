@@ -19,7 +19,7 @@ Minhas redes:
 
 Minhas estatísticas:
 
-[![cristianocorreamoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=bchavx)](https://github.com/bchavx/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bchavx&layout=compact)](https://github.com/bchavx/github-readme-stats)
+[![cristianocorreamoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=bchavx&dracula)](https://github.com/bchavx/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bchavx&layout=compact)](https://github.com/bchavx/github-readme-stats)
 
 <hr>
 
