@@ -5,7 +5,8 @@ Bem vindo! 🙋
 Eu sou a Bianca Pereira Chaves.
 
 Estudo as disciplinas:
+💻 HTML <br>
+💻 CSS <br>
+💻 JV <br>
 
-HTML
-CSS
-JV
+<hr>
